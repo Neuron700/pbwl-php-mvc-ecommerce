@@ -23,6 +23,19 @@ Proyek ini membangun pola **MVC (Model–View–Controller)** dari nol: URL rapi
 
 Fokus utamanya adalah fitur **Produk** yang pada versi awal masih parsial (metode simpan/ubah dikomentari, kolom salah, tabel database belum ada, view kosong). Repo ini menyelesaikannya menjadi **CRUD penuh + unggah foto**.
 
+## 📸 Tampilan
+
+<table>
+  <tr>
+    <td width="50%"><img src="docs/screenshots/01-dashboard.png" alt="Dashboard"><br><sub>Dashboard</sub></td>
+    <td width="50%"><img src="docs/screenshots/02-produk.png" alt="Daftar Produk"><br><sub>Daftar Produk</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="docs/screenshots/03-detail.png" alt="Detail Produk"><br><sub>Detail Produk</sub></td>
+    <td width="50%"><img src="docs/screenshots/04-input.png" alt="Form Input Produk"><br><sub>Form Input Produk</sub></td>
+  </tr>
+</table>
+
 ## ✨ Fitur
 
 ### Kategori
